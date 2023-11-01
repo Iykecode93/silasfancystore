@@ -112,12 +112,12 @@ Reusable Selector
 }
 
 .column {
-  margin-left: -0.0938em;
-  margin-right: -0.0938em;
+  margin-left: -0.938em;
+  margin-right: -0.938em;
 }
 
 .column .row {
-  padding: 0 0.0938em;
+  padding: 0 0.938em;
 }
 
 .flexwrap {
